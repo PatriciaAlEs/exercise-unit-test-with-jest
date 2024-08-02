@@ -16,3 +16,6 @@ test("Conversion from JPY to GBP (1 JPY = 0.0072 GBP)", function() {
     expect(fromYenToPound(1000)).toBe(7.2);
 })
 
+
+
+
